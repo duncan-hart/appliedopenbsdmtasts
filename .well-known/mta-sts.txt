@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: custmx.panix.com
+mx: mx.panix.com
 max_age: 1209600
